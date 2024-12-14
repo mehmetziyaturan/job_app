@@ -12,3 +12,5 @@ applications are listed, we can delete them, has detailed filtering, different s
 - axios
 
 # Preview
+![jobApp](https://github.com/user-attachments/assets/0c5750d6-2bc4-45db-b481-fd1b79eb7ee1)
+
